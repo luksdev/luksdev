@@ -7,6 +7,8 @@ Enthusiast of the best web & mobile development technologies.
 
 I'm passionate about solving problems and learning. Alway open to new challenges and ready to face changes.
 
+I share my knowledge on programming on my instagram - https://www.instagram.com/ledux.dev/
+
 > "Quanto mais eu sei, mais eu sou"
 
  -  📍 From AL living in Maceió 
