@@ -17,5 +17,5 @@ I share my knowledge on programming on my instagram - https://www.instagram.com/
 #### Reach me out 👇🏾
 [![Twitter Badge](https://img.shields.io/badge/-@luks_wmv-272727?style=flat-square&labelColor=272727&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/luks_wmv) 
 [  ![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Eduardo-272727?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lucas-eduardo-9435881b4/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucasgamer4i50@gmail.com-272727?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgamer4i50@gmail.com)](mailto:lucasgamer4i50@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-272727?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgamer4i50@gmail.com)](mailto:lucasgamer4i50@gmail.com)
 
