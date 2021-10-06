@@ -1,21 +1,28 @@
-# Hey There 🖖🏾
-My name is Lucas Eduardo, I'm from Brazil 🇧🇷 🧑🏾‍🚀
+# Olá, sou o Lucas Eduardo. Programador full-stack!
 
-Academic in Information Systems at Centro Universitário Cesmac, but I have already taken individual courses on some languages. 👨🏾‍💻
-
-Enthusiast of the best web & mobile development technologies.
-
-I'm passionate about solving problems and learning. Alway open to new challenges and ready to face changes.
-
-I share my knowledge on programming on my instagram - https://www.instagram.com/ledux.dev/
-
-> "Quanto mais eu sei, mais eu sou"
-
- -  📍 From AL living in Maceió 
- -  👨🏿‍💻 Front-End developer
+<div align="center">
+  <a href="https://github.com/luksdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksdev&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksdev&layout=compact&langs_count=7&theme=vue"/>
+</div>
+ <div align="center">
+  Sempre em busca de solucionar problemas e vizando aprendizagem. Aberto a novos desafios e pronto para enfrentar mudanças.
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="ledux-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ledux-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ledux-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ledux-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
  
-#### Reach me out 👇🏾
-[![Twitter Badge](https://img.shields.io/badge/-@luks_wmv-272727?style=flat-square&labelColor=272727&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/luks_wmv) 
-[  ![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Eduardo-272727?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lucas-eduardo-9435881b4/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-272727?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgamer4i50@gmail.com)](mailto:lucasgamer4i50@gmail.com)
+ 
 
+
+ ##
+ 
+ 
+ 
+  <a href="https://www.instagram.com/lucas.eaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/leduxdev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasarinisio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-eduardo-9435881b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
