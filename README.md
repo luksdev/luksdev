@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/luksdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksdev&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksdev&layout=compact&langs_count=10&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksdev&exclude_repo=python-oracle&layout=compact&langs_count=10&theme=vue"/>
 </div>
  <div align="center">
   Sempre em busca de solucionar problemas e vizando aprendizagem. Aberto a novos desafios e pronto para enfrentar mudanças.
