@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksdev&exclude_repo=python-oracle&layout=compact&langs_count=10&theme=vue"/>
 </div>
  <div align="center">
-  Sempre em busca de solucionar problemas e vizando aprendizagem. Aberto a novos desafios e pronto para enfrentar mudanças.
+  Sempre em busca de solucionar problemas e visando aprendizagem. Aberto a novos desafios e pronto para enfrentar mudanças.
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="ledux-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
